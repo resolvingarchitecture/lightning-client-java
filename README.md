@@ -24,7 +24,8 @@ Future versions of this component will provide auto notifications of payments ch
 
 
 ## Implementation
-RPC operations implemented using the following API documentation: https://api.lightning.community/#lnd-rest-api-reference
+RPC operations implemented using the following API documentation:
+https://api.lightning.community/#lnd-rest-api-reference
 
 ## Release Notes
 
